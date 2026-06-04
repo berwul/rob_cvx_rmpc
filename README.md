@@ -44,6 +44,6 @@ https://arxiv.org/abs/2508.21677
 ### Examples:
 We provide the following examples to get started:
 
-- [Planar 2 DOF manipulator](./examples/planar_two_dof/README.md)
-- [General 6 DOF manipulator](./examples/six_dof/README.md)
-- [Data driven computation of model-error constants with a Franka Emika Robot (FER)](./examples/FER/README.md)
+- [Planar 2 DOF manipulator](./examples/planar_two_dof)
+- [General 6 DOF manipulator](./examples/six_dof)
+- [Data driven computation of model-error constants with a Franka Emika Robot (FER)](./examples/FER)
