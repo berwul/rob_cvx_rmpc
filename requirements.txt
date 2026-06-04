@@ -1,0 +1,12 @@
+numpy==1.26.4
+matplotlib
+pandas
+scipy
+control
+cvxpy
+tqdm
+pin==2.7.0
+trimesh
+pyglet==1.5.31
+python-fcl
+scikit-image
